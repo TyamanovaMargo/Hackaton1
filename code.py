@@ -77,7 +77,7 @@ print(kurtosis)
 print(skewness)
 # %%
 
-#kurtosis there are no values <>3 so I dont modify columns because of kurtosis
+#kurtosis there are no values <>3 so I dont modify columns because of kurtosis.
 #skewness we have some big values like in YearsSinceLastPromotion (skewness of 2). 
 #I decided to transform it so will have more normal distribuition and check again:
 skewness = stats.skew(data['YearsSinceLastPromotion'])
