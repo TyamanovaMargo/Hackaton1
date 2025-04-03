@@ -64,5 +64,5 @@ The dataset includes various employee attributes, such as:
 ⭐ **Contributions & Feedback are Welcome!**
 📩 Feel free to open issues or pull requests to enhance the project.
 
-📌 **Author**: Florencia Ogorinsky
+📌 **Author**: Florencia Ogorinsky, Timanova Margarita
 
